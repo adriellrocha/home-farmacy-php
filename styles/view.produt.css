@@ -1,0 +1,26 @@
+
+        .img {
+
+            height: 100%;
+            width: 60%;
+            object-fit: cover;
+        }
+
+        .bDivImg {
+            width: 50%;
+            display: flex;
+            justify-content: center;
+        }
+
+        .text {
+            padding-left: 7px;
+            padding-right: 7px;
+            width: 50%;
+            border: 3px solid rgba(0, 0, 0, 0.5);
+            border-radius: 0px 15px 15px 0px;
+
+        }
+
+        .text button {
+            width: 100%;
+        }

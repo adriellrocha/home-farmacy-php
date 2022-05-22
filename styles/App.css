@@ -1,0 +1,30 @@
+
+.btn_HF {
+  color: white;
+  background-image: linear-gradient(rgb(66, 203, 161), rgb(24, 92, 157));
+  border-width: 0;
+  box-shadow: 5px 5px 5px 0px #000000, 50px 50px 47px 50px rgba(0, 0, 0, 0);
+  border-radius: 5px;
+  text-decoration: none;
+}
+.fund_article {
+  background-image: url(../styles/img/remedios_fundo2.png);
+}
+.div_article{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.9)); 
+  padding: 15px;
+}
+
+.logo{
+  width: 45px;
+}
+.boxS{
+  box-shadow: 10px 10px 20px 10px #000000, 50px 50px 47px 50px rgba(0, 0, 0, 0);
+}
+.nav_alling{
+  align-items: baseline;
+}
+.formGrid{
+  display: grid;
+  grid-template-columns: 50% 25% 25%;
+}
